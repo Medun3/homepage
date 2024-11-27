@@ -1,0 +1,38 @@
+hr {
+    margin: 5%;
+}
+
+.image {
+    border-radius: 50%;
+}
+
+.btn {
+    border-radius: 20px;
+    margin-top: 30px;
+    background-color: #E2199D;
+    font-size: 18px;
+    border-color: #E2199D;
+}
+
+hr {
+    background-color: white;
+}
+
+.fs-4 {
+    color: azure;
+    font-size: 5;
+    padding-left: 30px;
+    position: absolute;
+    left: 8%;
+}
+.nav-item {
+    position: relative;
+    right: 90%;
+    color: white;
+    padding: 10px;
+}
+#new{
+    background-image:url(download\ \(1\).jpeg);
+    background-size: cover;
+    height: 450px;
+}
